@@ -1,1 +1,1 @@
-# Project1-Computational-Physics
+# Project1-Computational Physics
